@@ -1,6 +1,4 @@
-![Screenshot (28)](https://github.com/user-attachments/assets/42ad7776-37ad-42f3-a750-7dbbd832c74e)# Gaussian Elimination
-
-## AIM:
+## Aim:
 To write a program to find the solution of a matrix using Gaussian Elimination.
 
 ## Equipments Required:
